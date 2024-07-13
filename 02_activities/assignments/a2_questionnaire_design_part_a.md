@@ -20,29 +20,29 @@ The number of your chosen topic: `#`
 
 Describe the purpose of your survey:
 ``` 
-The purpose of survey is to understand how age influences music taste. specificially foucusing on perceptions of popular music. The insights gathered will be used to analyze patterns and trends in music preferences across different age groups and will contribute to an academic research.
+The purpose of the survey is to understand how age influences music taste—specifically focusing on perceptions of popular music. The insights gathered will be used to analyze patterns and trends in music preferences across different age groups and contribute to academic research.
 ```
 
 Describe your target population, sampling frame, sampling units, and observational units:
 ```
--Target population: Difference ages who access to music and familar with popular music geners.
+-Target population: Difference ages who have access to music and are familiar with popular music genres.
 -Sampling frame: A diverse group of participants across various age groups, accessed through social media platforms. university networks and music forums.
 -Sampling units: Individual participants.
--Sampling strategy: Ensure that participants from each age group (e.g.5-15, 16-18, 19-25, 26-30,31-40, 41-50, 51+) are proportionally represented in the sample. The purpose is for helping capture a comprehensive view of music preferences across the lifetime.
+-Sampling strategy: Ensure that participants from each age group (e.g.5-15, 16-18, 19-25, 26-30,31-40, 41-50, 51+) are proportionally represented in the sample. The purpose is to help capture a comprehensive view of music preferences across the lifetime.
 ```
 
 Your 5-10 question survey:
 ```
 1. What is your age/ gender/ nationality?
-2. Do you have skill of playing instruments?
+2. Do you have a skill of playing instruments?
 3. How often do you listen to music? (Daily/Weekly/Monthly/Rarely)
-4. What are your preferred style? (Pop/Rock/Hip-pop/Classical/Jazz/Country/Electronic/Other)
+4. What is your preferred style? (Pop/Rock/Hip-pop/Classical/Jazz/Country/Electronic/Other)
 5. How do you define "popular music"? (Open-ended)
-6. Do you have experience to change your music preference and what the age for changing?
+6. Do you have experience in changing your music preference and what is the age for changing?
 7. Do you believe your age influences your music taste? (Yes/No)
-8. Do you feel there is music gap between younger and older people?
+8. Do you feel there is a music gap between younger and older people?
 9. Do you think popular music today is better, worse, or about the same as the music from your teenage years and why?
-10. Any additional comments on the relationship between age and music taste? (Open-ended)
+10. Do you have any additional comments on the relationship between age and music taste? (Open-ended)
 ```
 
 ## Rubric
