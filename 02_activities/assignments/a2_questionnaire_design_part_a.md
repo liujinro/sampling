@@ -19,27 +19,31 @@ Select one of the scenarios below and design a survey to meet the need(s) outlin
 The number of your chosen topic: `#`
 
 Describe the purpose of your survey:
-```
-write your answer here...
+``` 
+The purpose of the survey is to understand how age influences music taste—specifically focusing on perceptions of popular music. The insights gathered will be used to analyze patterns and trends in music preferences across different age groups and contribute to academic research.
 ```
 
 Describe your target population, sampling frame, sampling units, and observational units:
 ```
-write your answer here...
+-Target Population: Difference ages who have access to music and are familiar with popular music genres.
+-Sampling Frame: A diverse group of participants across various age groups, accessed through social media platforms. university networks and music forums.
+-Sampling Units: Individual participants.
+Observational Units: Individual responses to the survey questions.
+
+Sampling strategy: 
+To ensure a comprehensive and representative sample, I will use stratified sampling. I use the method as this strategy involves dividing the target population into strata (age groups) and then randomly selecting participants from each stratum. The strata will be age groups such as 5-15, 16-18, 19-25, 26-30, 31-40, 41-50, and 51+. This approach ensures proportional representation from each age group, helping to capture a detailed view of music preferences across different stages of life.
 ```
 
 Your 5-10 question survey:
 ```
-1. write your question here...
-2. write your question here...
-3. write your question here...
-4. write your question here...
-5. write your question here...
-6. write your question here... (optional)
-7. write your question here... (optional)
-8. write your question here... (optional)
-9. write your question here... (optional)
-10. write your question here... (optional)
+1. What is your age/ gender/ nationality?
+2. Do you have a skill of playing instruments?
+3. How often do you listen to music? (Daily/Weekly/Monthly/Rarely)
+4. What is your preferred style? (Pop/Rock/Hip-pop/Classical/Jazz/Country/Electronic/Other)
+5. Do you believe your age influences your music taste? (Yes/No)
+6. Do you think popular music today is better, worse, or about the same as the music from your teenage years? (Yes/No)
+7. How do you define "popular music"? (Multiple choice: Based on chart rankings, Public opinion, Personal preference, Other)
+
 ```
 
 ## Rubric
