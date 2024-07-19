@@ -4,19 +4,22 @@
 1. Comment on the quality of your sample. Do you expect it to be representative of your target population? Why or why not?
 
     ```
-    write your answer here...
+  I expect the sample to be representative of the target population in some way. Using stratified sampling, the survey ensures proportional representation across different age groups, which is important for understanding age-related music preferences. However, since the sampling frame includes participants accessed through social media platforms, university networks, and music forums, there might be an overrepresentation of individuals who are more technologically savvy or have a particular interest in music. This could introduce some bias, limiting the representativeness of the sample.
     ```
 
 2. Given the class content (error, survey quality, ethics) covered since Part A of the assignment, do you wish to make any changes to your original survey? If so, make a copy of your original survey and make any desired changes. Describe the changes and your reasoning. Provide a link here for submission.
 
     ```
-    write your answer here...
-    ```
+Given the class content covering error, survey quality, and ethics, I have decided to make the following changes to the original survey:
+
+1. Removed Open-Ended Questions: Based on the suggestion to refrain from open-ended questions, I have removed the open-ended questions that are difficult to use in analyzing the sample.
+2. Improve Clarity and Specificity: I will add specific choices for certain questions to reduce ambiguity and ensure respondents understand the options clearly.
+3. Add Ethics Statement: I would like to include an ethics statement at the beginning of the survey to inform participants about the purpose of the survey, how their data will be used, and their rights as participants. For example: "Participation in this survey is voluntary, and all responses will be kept confidential and used solely for research purposes. By completing the survey, you consent to the collection and use of your data in accordance with our privacy policy" .
 
 3. Could the purpose of your survey have been fulfilled through an observational study? If yes, how? If no, why not?
 
     ```
-    write your answer here...
+   The purpose of the survey could not be fully fulfilled through an observational study. An observational study might provide insights into music preferences and trends across different age groups. However, it would not capture the subjective experiences and perceptions of individuals regarding how their age influences their music taste. Surveys are more effective in gathering specific personal insights and opinions directly from respondents, which are crucial for the research question at hand.
     ```
 
 ## Why am I doing this assignment?
